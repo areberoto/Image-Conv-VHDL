@@ -7,7 +7,10 @@ The hardware description is done using VHDL and simulations where performed usin
 ## Block Diagram of Convolution System
 ![1](https://user-images.githubusercontent.com/44409207/128091255-bbc69391-d4ee-4827-8b39-15383c54ad7a.png)
 
+## Convolution Module
+![2](https://user-images.githubusercontent.com/44409207/128092389-8a46cf55-e352-4784-893e-bb1f47153bcb.png)
+
 ## Filter convolution of three 8-bit grayscale images
-![2](https://user-images.githubusercontent.com/44409207/128091186-450ba638-2437-412b-96fd-64067702992d.png)
+![3](https://user-images.githubusercontent.com/44409207/128091186-450ba638-2437-412b-96fd-64067702992d.png)
 
 [1] *Henrik Ström, ”A Parallel FPGA Implementation of Image Convolution” Department of Electrical Engineering, Linköping University, Sweden, 2016.*
