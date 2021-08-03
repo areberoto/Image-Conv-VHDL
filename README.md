@@ -9,3 +9,5 @@ The hardware description is done using VHDL and simulations where performed usin
 
 ## Filter convolution of three 8-bit grayscale images
 ![2](https://user-images.githubusercontent.com/44409207/128091186-450ba638-2437-412b-96fd-64067702992d.png)
+
+[1] *Henrik Ström, ”A Parallel FPGA Implementation of Image Convolution” Department of Electrical Engineering, Linköping University, Sweden, 2016.*
