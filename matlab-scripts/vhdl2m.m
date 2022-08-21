@@ -5,10 +5,10 @@ function vhdl2m(input_bin,imagesize, size_w);
 % detail: a program to read in the VHDL output file
 %
 % paramter: input_bin - vhdl output bin file
-% imagesize: actually image size
+% imagesize: actuall image size
 % 
-% This function works only on binary images or gray scale images
-% square sizes 
+% This function only works on binary images or gray scale images
+% of square sizes 
 
 fid = fopen(input_bin, 'r');
 a = fscanf(fid, '%s');    % It has two rows now.

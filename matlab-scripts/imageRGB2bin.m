@@ -1,14 +1,14 @@
 function imageRGB2bin(fileImage1,outputfile)
-% This function transform an RGB image file on bmp format to
-% a file storing a binary.
+% This function transforms an RGB image, bmp format to
+% a file storing its binary data.
 % version 1.0
 % JLTX
 % 18/02/2014
 % imageRGB2bin = ('file.bmp', 'outputfile') 
 % e.g. imageRGB2bin = ('file.bmp', 'data.txt')
 %
-% This function works only on binary images or gray scale images
-% square sizes 
+% This function only works on binary images or gray scale images
+% of square sizes 
 
 A = imread(fileImage1);
 [ren,col,indx] = size(A); 

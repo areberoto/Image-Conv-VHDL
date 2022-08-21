@@ -1,3 +1,6 @@
+-- SPDX-License-Identifier: MIT License
+-- Copyright (c) 2021 Alberto Alvarez
+
 -- Author:      Alberto Alvarez Gonzalez
 -- Date:        6th January, 2021
 -- File:        buffer_module.vhd
